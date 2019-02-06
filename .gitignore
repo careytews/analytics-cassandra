@@ -1,0 +1,5 @@
+src/analytics/cassandra
+src/analytics/vendor
+src/github.com
+bin
+pkg
